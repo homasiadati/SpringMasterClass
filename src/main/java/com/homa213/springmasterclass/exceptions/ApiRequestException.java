@@ -1,4 +1,4 @@
-package com.mahd312.springmasterclass.exceptions;
+package com.homa213.springmasterclass.exceptions;
 
 public class ApiRequestException extends RuntimeException {
 

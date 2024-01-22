@@ -1,4 +1,4 @@
-package com.mahd312.springmasterclass.jsonplaceholder;
+package com.homa213.springmasterclass.jsonplaceholder;
 
 public class Post {
     private Long userId;

@@ -1,10 +1,8 @@
-package com.mahd312.springmasterclass.customer;
+package com.homa213.springmasterclass.customer;
 
-import com.mahd312.springmasterclass.exceptions.NotFoundException;
+import com.homa213.springmasterclass.exceptions.NotFoundException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

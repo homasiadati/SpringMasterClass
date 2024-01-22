@@ -1,7 +1,4 @@
-package com.mahd312.springmasterclass.exceptions;
-
-import org.springframework.http.HttpStatus;
-import org.springframework.web.bind.annotation.ResponseStatus;
+package com.homa213.springmasterclass.exceptions;
 
 //for using ApiExceptionHandler you don't need to use ResponseStatus Annotation
 //@ResponseStatus(value = HttpStatus.NOT_FOUND)
